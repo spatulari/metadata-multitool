@@ -107,11 +107,11 @@
             </p>
 
             <ul>
-                <li>🔒 Remove GPS location from photos.</li>
-                <li>👤 Remove author names and usernames.</li>
-                <li>💻 Remove software and device information.</li>
-                <li>📅 Remove timestamps and document history.</li>
-                <li>🗂️ Remove hidden comments and revisions.</li>
+                <li>- Remove GPS location from photos.</li>
+                <li>- Remove author names and usernames.</li>
+                <li>- Remove software and device information.</li>
+                <li>- Remove timestamps and document history.</li>
+                <li>- Remove hidden comments and revisions.</li>
             </ul>
         </div>
 
@@ -124,11 +124,11 @@
             </p>
 
             <ul>
-                <li>🎵 Music titles and artists.</li>
-                <li>🖼️ Photo orientation.</li>
-                <li>🎨 Color profiles.</li>
-                <li>♿ Accessibility information.</li>
-                <li>©️ Copyright and licensing information.</li>
+                <li>- Music titles and artists.</li>
+                <li>- Photo orientation.</li>
+                <li>- Color profiles.</li>
+                <li>- Accessibility information.</li>
+                <li>- Copyright and licensing information.</li>
             </ul>
 
             <p>
@@ -145,11 +145,11 @@
             </p>
 
             <ul>
-                <li>✅ Files are processed locally in your browser.</li>
-                <li>✅ Files are never uploaded to our servers. (we don't have one)</li>
-                <li>✅ We cannot view, collect or store your files.</li>
-                <li>✅ Everything stays on your device.</li>
-                <li>✅ No account is required.</li>
+                <li>- Files are processed locally in your browser.</li>
+                <li>- Files are never uploaded to our servers. (we don't have one)</li>
+                <li>- We cannot view, collect or store your files.</li>
+                <li>- Everything stays on your device.</li>
+                <li>- No account is required.</li>
             </ul>
 
             <p>
