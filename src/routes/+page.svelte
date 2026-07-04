@@ -2,12 +2,14 @@
 	import { selectedFile } from '$lib/stores/file.svelte';
 	let file = $state<File | null>(null);
 	let dragging = $state(false);
+	let size = "0";
 
 	function handleFiles(fileList: FileList | null) {
 		if (!fileList || fileList.length === 0) return;
 
 		file = fileList[0];
         selectedFile.set(file);
+		size = (file.size / 1024 / 1024).toFixed(2);
 	}
 
 	function onDrop(event: DragEvent) {
@@ -55,6 +57,7 @@
                     <div class="icon">✅</div>
 
                     <span>{file.name}</span>
+					<span>{size} MB</span>
                     <small>Choose an action</small>
 
                     <div class="actions">
