@@ -239,6 +239,8 @@
 	}
 
 	.dropzone {
+		min-height: 260px;
+		
 		display: block;
 		cursor: pointer;
 
